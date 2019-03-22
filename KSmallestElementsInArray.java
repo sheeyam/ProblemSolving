@@ -6,19 +6,19 @@ public class KSmallestElementsInArray {
 		// Number Array
 		Integer[] numArray = new Integer[] {23, 56, 2, 7, 14};
     
-    //K-Times
+   		//K-Times
 		int k = 3;
 		
-    // NumArray On Descending Order
+    		// NumArray On Descending Order
 		Integer[] ascNumArray = SortArrayASC(numArray);
 		
-    //Loop through the first k values and print.
+    		//Loop through the first k values and print.
 		for(int x = 0; x < k; x++) {
 			System.out.println(ascNumArray[x]);
 		}
 	}
 	
-  // Sort Array in Ascending Order
+  	// Sort Array in Ascending Order
 	public static Integer[] SortArrayASC(Integer[] array) {
 		Arrays.sort(array);
 		return array;
