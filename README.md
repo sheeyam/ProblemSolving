@@ -5,3 +5,4 @@
 * StockMaxProfit.java
 * ProductOfAllOtherNumbers.java
 * LargestPairSumGreedy.java
+* HighestProductOfThreeNumbers.java
