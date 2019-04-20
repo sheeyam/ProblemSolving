@@ -4,5 +4,6 @@
 2. ProductOfAllOtherNumbers.java
 3. LargestPairSumGreedy.java
 4. HighestProductOfThreeNumbers.java
-5. KSmallestElementsInArray.java
-6. KLargestElementsInArray.java
+5. KLargestElementsInArray.java
+6. KSmallestElementsInArray.java
+
