@@ -2,5 +2,6 @@
 
 * KSmallestElementsInArray.java
 * KLargestElementsInArray.java
-* StockMaxProfit.java
+* 01. StockMaxProfit.java
 * ProductOfAllOtherNumbers.java
+* 04. LargestPairSumGreedy.java
